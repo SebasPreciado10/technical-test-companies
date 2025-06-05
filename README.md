@@ -9,7 +9,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 ```bash
 1. Clonar el repositorio
 
-- git clone https://github.com/SebasPreciado10/technical-test-companies.git
+- git clone https://github.com/tuUsuario/technical-test-companies.git
 Asegúrate de estar en el directorio raíz del proyecto antes de continuar.
 
 2. Instalar dependencias
