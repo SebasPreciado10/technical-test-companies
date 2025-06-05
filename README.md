@@ -10,6 +10,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 1. Clonar el repositorio
 
 - git clone https://github.com/tuUsuario/technical-test-companies.git
+- cd technical-test-companies
 Asegúrate de estar en el directorio raíz del proyecto antes de continuar.
 
 2. Instalar dependencias
