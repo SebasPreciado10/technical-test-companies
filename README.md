@@ -8,16 +8,18 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 ```bash
 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/technical-test-companies-7am.git
-cd technical-test-companies-7am
+
+- git clone https://github.com/SebasPreciado10/technical-test-companies.git
 Asegúrate de estar en el directorio raíz del proyecto antes de continuar.
 
 2. Instalar dependencias
-Utiliza npm para instalar todas las dependencias necesarias:
+
+- Utiliza npm para instalar todas las dependencias necesarias:
 npm install
 
 3. Iniciar el entorno de desarrollo
-Una vez instaladas las dependencias, puedes levantar el servidor de desarrollo con:
+
+- Una vez instaladas las dependencias, puedes levantar el servidor de desarrollo con:
 npm run dev
 Esto iniciará la aplicación, normalmente en http://localhost:3000.
 
