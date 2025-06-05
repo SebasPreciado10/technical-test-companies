@@ -15,24 +15,12 @@ Asegúrate de estar en el directorio raíz del proyecto antes de continuar.
 
 2. Instalar dependencias
 Utiliza npm para instalar todas las dependencias necesarias:
-
-bash
-Copiar
-Editar
 npm install
+
 3. Iniciar el entorno de desarrollo
 Una vez instaladas las dependencias, puedes levantar el servidor de desarrollo con:
-
-bash
-Copiar
-Editar
 npm run dev
 Esto iniciará la aplicación, normalmente en http://localhost:3000.
-
-✅ Requisitos
-Node.js ≥ 16.x
-
-npm ≥ 8.x
 
 📝 Notas
 Este proyecto fue desarrollado como parte de un proceso de evaluación técnica.
