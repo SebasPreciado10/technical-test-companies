@@ -6,9 +6,8 @@ Este repositorio contiene el código fuente para la prueba técnica de la empres
 
 Sigue estos pasos para ejecutar el proyecto localmente:
 
-### 1. Clonar el repositorio
-
 ```bash
+1. Clonar el repositorio
 git clone https://github.com/tu-usuario/technical-test-companies-7am.git
 cd technical-test-companies-7am
 Asegúrate de estar en el directorio raíz del proyecto antes de continuar.
